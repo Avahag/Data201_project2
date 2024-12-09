@@ -66,7 +66,7 @@ Productivity Scores
 Well-Being Score (target variable)
 The pair plot provides insights into patterns and trends across these variables, particularly focusing on how employment type impacts well-being.
 
-💡 Conclusion
+## Conclusion
 The linear regression model highlights limited explanatory power, suggesting that:
 
 Independent variables do not fully capture the variance in well-being scores.
